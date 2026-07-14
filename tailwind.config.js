@@ -48,6 +48,24 @@ module.exports = {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Custom design tokens
+        "warm-white": "#FDF8F0",
+        "terracotta": "#C75B2A",
+        "deep-terracotta": "#A8491F",
+        "golden-ochre": "#D4A03D",
+        "forest-green": "#3D6B4F",
+        "deep-navy": "#1E2A4A",
+        "warm-sand": "#E8D5B8",
+        "sunset-orange": "#E8913A",
+        "charcoal": "#2C2C2C",
+        "light-terracotta": "#F5E0D4",
+        "footer-dark": "#2A1F1A",
+        "border-light": "rgba(199, 91, 42, 0.15)",
+      },
+      fontFamily: {
+        cormorant: ['"Cormorant Garamond"', 'serif'],
+        inter: ['Inter', 'sans-serif'],
+        cinzel: ['Cinzel', 'serif'],
       },
       borderRadius: {
         xl: "calc(var(--radius) + 4px)",
@@ -58,6 +76,8 @@ module.exports = {
       },
       boxShadow: {
         xs: "0 1px 2px 0 rgb(0 0 0 / 0.05)",
+        "card": "0 20px 60px rgba(199, 91, 42, 0.15)",
+        "card-hover": "0 24px 70px rgba(199, 91, 42, 0.22)",
       },
       keyframes: {
         "accordion-down": {
@@ -72,11 +92,16 @@ module.exports = {
           "0%,70%,100%": { opacity: "1" },
           "20%,50%": { opacity: "0" },
         },
+        "bounce-gentle": {
+          "0%, 100%": { transform: "translateY(0)" },
+          "50%": { transform: "translateY(-8px)" },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
         "caret-blink": "caret-blink 1.25s ease-out infinite",
+        "bounce-gentle": "bounce-gentle 2s ease-in-out infinite",
       },
     },
   },
