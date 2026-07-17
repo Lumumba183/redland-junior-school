@@ -64,7 +64,7 @@ export default function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="./images/hero-bg.jpg"
+          src="./images/hero-bg.png"
           alt="Kenyan landscape at golden hour"
           className="w-full h-full object-cover"
         />
