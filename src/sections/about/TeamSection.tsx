@@ -8,7 +8,7 @@ const team = [
   {
     name: 'George Okuta',
     role: 'Founder & Director',
-    image: './images/founder-george.jpg',
+    image: './images/director-george.jpg',
   },
   {
     name: 'Jackline Okuta',
