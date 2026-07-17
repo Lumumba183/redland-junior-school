@@ -13,7 +13,7 @@ const team = [
   {
     name: 'Jackline Okuta',
     role: 'Co-Founder & Administrator',
-    image: './images/founder-jackline.jpg',
+    image: './images/principal-jackline.png',
   },
   {
     name: 'Head Teacher',

@@ -70,7 +70,7 @@ export default function StorySection() {
             </h2>
             <div className="space-y-4 text-charcoal text-lg leading-relaxed">
               <p>
-                In 2023, George and Jackline Okuta had a deep dream of helping orphans
+                In 2018, George and Jackline Okuta had a deep dream of helping orphans
                 and needy children within Kolwa Central. They discovered that many children
                 were missing out on school — left vulnerable, exposed, and facing heavy
                 risks at a tender age.

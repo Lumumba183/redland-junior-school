@@ -82,7 +82,7 @@ export default function MissionSection() {
               Building Tomorrow&apos;s Leaders Through Education &amp; Faith
             </h2>
             <p className="text-charcoal text-lg leading-relaxed mb-10">
-              Since 2023, Redland Junior School has been a beacon of hope in Kolwa Central.
+              Since 2018, Redland Junior School has been a beacon of hope in Kolwa Central.
               We believe every child deserves quality education rooted in strong values.
               Our holistic approach nurtures not just academic excellence, but character,
               compassion, and faith.

@@ -29,7 +29,7 @@ export default function Footer() {
               Raising the Leaders
             </p>
             <p className="text-warm-white/60 text-sm leading-relaxed">
-              Nurturing excellence, faith, and compassion in the heart of Kisumu, Kenya since 2023.
+              Nurturing excellence, faith, and compassion in the heart of Kisumu, Kenya since 2018.
             </p>
           </div>
 
